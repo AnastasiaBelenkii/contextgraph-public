@@ -23,7 +23,7 @@ ContextGraph is experimental and evolving fast. Agent integration, paper import,
 ## Feedback
 
 - **Bug reports and feature requests:** [Open an issue](../../issues/new/choose)
-- **General feedback:** jake@belenky.net
+- **General feedback:** jacob@belenky.net
 - **Community:** [Discord invite link](https://discord.gg/zQ9Bvgnw)
 
 ## Looking for a cofounder
